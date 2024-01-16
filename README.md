@@ -1,16 +1,15 @@
-### Hi there 👋
+# Who's That Coder? 🕵️‍♂️
 
-<!--
-**Cracken211/Cracken211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code. Sometimes it's game hacking in C++. Sometimes it's... something else.
 
-Here are some ideas to get you started:
+## About Me (The Short Version)
+- 🎮 I make games do things they're not supposed to. All in C++. 
+- 👀 I see bugs as free entertainment.
+- 🎸 Sometimes I take breaks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## So What's Cracking?
+- 🎮 Games.
+- 🚀 I push to GitHub. Stuff works. Mostly.
+
+- ## Can you figure out the puzzle??
+
